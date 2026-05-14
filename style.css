@@ -574,3 +574,10 @@ footer {
     padding: 100px 7%;
   }
 }
+.logo-img {
+  width: 52px;
+  height: 52px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 2px solid rgba(255,255,255,0.1);
+}
